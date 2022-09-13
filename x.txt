@@ -8,3 +8,12 @@ Process to start the project
  3.Execution
  4.Testing.
  5.Release.
+
+
+Planning-
+    the objective is to create a better product for the client.We are more objective to for a timely deliver with 
+all the basic functionality should be upto the mark.We will have daily planning call to decide what to work upon.
+there is a Lead and Qc engineers who should be carried out daily testing activity.
+
+Design-
+  Project architecture is working on the high level design.All the developer are enganged in the low level Design.
