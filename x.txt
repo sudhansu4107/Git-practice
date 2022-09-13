@@ -1,3 +1,10 @@
 PROJECT 
     WE  have started the project. the idea is to create a Big and Scalable project.
     Wishing you Dood luck to the Team!
+
+Process to start the project
+ 1.Planning
+ 2.Desgining.
+ 3.Execution
+ 4.Testing.
+ 5.Release.
